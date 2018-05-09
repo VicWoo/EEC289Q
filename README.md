@@ -2,9 +2,9 @@
 ## Initiated by Filipe Borges and Yushan Wu 
 ![](https://github.com/VicWoo/HAL1000/blob/gh-pages/images/HAL.jpg)
 
-### First project: Dog Breed Identification
-- [Proposal](~/docs/Proposal.md)
-- [Posts](~/_posts)
+### First project: [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)
+- [Proposal](https://github.com/VicWoo/HAL1000/blob/gh-pages/docs/proposal.md)
+- [Posts](https://github.com/VicWoo/HAL1000/blob/gh-pages/_posts)
 - [Git Repository](https://github.com/VicWoo/HAL1000)
 
 
