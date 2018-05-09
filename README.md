@@ -1,6 +1,6 @@
 # **Welcome to Mission HAL1000**
 ## Initiated by Filipe Borges and Yushan Wu 
-![HAL](~/images/HAL.jpg)
+![](https://github.com/VicWoo/HAL1000/blob/gh-pages/images/HAL.jpg)
 
 ### First project: Dog Breed Identification
 - [Proposal](~/docs/Proposal.md)
